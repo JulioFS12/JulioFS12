@@ -1,4 +1,4 @@
-### Hi there, Julio 👋
+### Hi there, I'm Julio 👋
 I’m currently working on Mern Stack
 <!--
 **JulioFS12/JulioFS12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
