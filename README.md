@@ -1,6 +1,5 @@
-### Hi there, I'm Julio 👋
+![Banner](./banner.png)
 
-Hi I'm Julio Flores full stack developer junior with MERN Stack,  I have experiense creating  Api's RESTfull.
 <!--
 **JulioFS12/JulioFS12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
